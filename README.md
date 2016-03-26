@@ -15,7 +15,7 @@
 
 文件：
 ```
-#!/bin/shell
+#!/bin/bash
 #第一行是说明基于哪个类型的shell脚本，目前学习的是基于bash shell脚本的编程
 #"#"代表注释
 echo $PATH
@@ -209,7 +209,7 @@ The anwser is .6283
 demo1.sh
 ```
 #!/bin/bash
-
+#
 var1=3.1415926
 var2=43.567
 var3=123.1234
